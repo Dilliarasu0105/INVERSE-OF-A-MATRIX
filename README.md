@@ -24,7 +24,8 @@ B = np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![image](https://github.com/Dilliarasu0105/INVERSE-OF-A-MATRIX/assets/144979593/ebf45d90-e096-4c04-ae0a-910a0dcbd8c4)
+
+![Screenshot 2024-04-29 135605](https://github.com/Dilliarasu0105/INVERSE-OF-A-MATRIX/assets/144979593/38f96186-d5fb-4bf9-bcc2-2e95fdc4ceef)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
